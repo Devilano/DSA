@@ -5,7 +5,7 @@
 //        Explanation: Missing even numbers on the list are 4, 8, 10, 12, 14, 16, 20 and so on and kth missing number is on 6th place of the list i.e. 16
 //
 
-package Que7;
+package Que8;
 public class KthMissingEvenNumber {
 
     public int findKthMissingEvenNumber(int[] arr, int k) {
